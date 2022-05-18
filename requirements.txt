@@ -1,3 +1,6 @@
-Required packages to install before running the script:
+Required packages to install before running both of the scripts:
 
-scikit-learn, tensorflow, opencv
+- scikit-learn
+- tensorflow
+- opencv
+- numpy
